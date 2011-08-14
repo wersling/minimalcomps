@@ -47,7 +47,7 @@ package com.bit101.components
         public static var LIST_ROLLOVER:uint = 0XDDDDDD;
         
         public static var embedFonts:Boolean = false;
-        public static var fontName:String = "Verdana,Tahoma,宋体,_sans";
+        public static var fontName:String = "_sans";
         public static var fontSize:Number = 12;
         
         public static const DARK:String = "dark";
